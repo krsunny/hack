@@ -1,0 +1,17 @@
+.like-clicked{
+    padding: 6px 6px;
+    height: 25px;
+    width: 25px;
+    background-color: #007bffe3;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+
+.like-unclicked{
+    padding: 6px 6px;
+    height: 25px;
+    width: 25px;
+    background-color: #ffffffe3;
+    border-radius: 4px;
+    border: 1px solid black;
+}

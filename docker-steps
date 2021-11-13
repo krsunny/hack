@@ -1,0 +1,5 @@
+1. navigate to the root folder where the dockerfile is placed
+2. docker build -t hackathon
+3. docker iamages to check if hackathon image was build successfully
+4. docker run -d -it -p 80:80/tcp hackathon
+5. navigate to hostip:80
